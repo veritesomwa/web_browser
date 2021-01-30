@@ -1,0 +1,12 @@
+{
+  "name": "web_browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.py",
+  "scripts": {
+    "python": "python main.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
